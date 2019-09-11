@@ -1,1 +1,4 @@
-# python-project-2-
+# Python
+Пример оконной программы на Python с использованием Qt5
+
+![srcreenshot](screen.png)
